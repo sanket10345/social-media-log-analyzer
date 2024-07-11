@@ -1,0 +1,19 @@
+{
+  "name": "social-media-log-analyzer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanket10345/social-media-log-analyzer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanket10345/social-media-log-analyzer/issues"
+  },
+  "homepage": "https://github.com/sanket10345/social-media-log-analyzer#readme",
+  "description": ""
+}
